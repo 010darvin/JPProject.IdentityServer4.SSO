@@ -37,6 +37,6 @@
 .. role:: center
 .. role:: left
 .. role:: right
-
+.. role:: afk kick  30 secunden 
 
 .. (c) Lilian Besson, 2011-2016, https://bitbucket.org/lbesson/web-sphinx/
