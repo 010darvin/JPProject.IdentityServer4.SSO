@@ -16,7 +16,8 @@ services:
           MYSQL_USER: jp
           MYSQL_DATABASE: jpproject
           MYSQL_PASSWORD: 10203040
-    
+          MYSQL_PASSWORD: 10305080
+          
     #############################
     # Server SSO
     #############################
